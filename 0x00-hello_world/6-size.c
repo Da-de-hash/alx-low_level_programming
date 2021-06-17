@@ -5,6 +5,7 @@
  *
  * Return: zero on success
  *
+ * viod: type of datatype
  */
 int main(viod)
 {
