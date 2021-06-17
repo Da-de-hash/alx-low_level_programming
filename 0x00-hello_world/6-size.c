@@ -3,9 +3,10 @@
 /**
  * main - Prints quote
  *
- * Return: zero on success
- *
  * viod: type of datatype
+ *
+ * Return: zero on success
+ * 
  */
 int main(viod)
 {
