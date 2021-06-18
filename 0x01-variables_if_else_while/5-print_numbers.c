@@ -9,7 +9,7 @@
  *
  * Return: 0 for success
  */
-int main (void)
+int main(void)
 {
 char num = '0';
 while (num <= '9')
