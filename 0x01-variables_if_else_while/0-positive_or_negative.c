@@ -4,18 +4,17 @@
 
 /**
  * main - Positive or Ngative - print sign of random number
- * @viod: Empty parameter list for main.
+ * @void: Empty parameter list for main.
  *
  * Description: this if/else statement declares the sign (positive
  * or negative) of a random number. It also states if the value
  * is zero.
  *
- *Return: 0 for success
+ * Return: 0 for success
 */
 int main(void)
 {
 /**
- * @viod: Empty parameter list for main.
  * variable n has been declared
  * coding then assigns the random value.
  */
