@@ -4,7 +4,7 @@
 
 /**
  * main - The last digit
- * @viod: Empty parameter list for main.
+ * @void: Empty parameter list for main.
  *
  * Description: Prints last digit of random number and tells
  * if it is greater than 5, 0, or less than 6 and not 0.
