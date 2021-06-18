@@ -15,6 +15,7 @@
 int main(void)
 {
 /**
+ * @viod: Empty parameter list for main
  * variable n has been declared
  * coding then assigns the random value.
  */
