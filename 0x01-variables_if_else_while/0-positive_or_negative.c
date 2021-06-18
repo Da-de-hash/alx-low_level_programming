@@ -18,7 +18,7 @@ int main(void)
  * main - prinst sign of random number
  * variable n has been declared
  * coding then assigns the random value.
- */  
+ */
 int n;
 srand(time(0));
 n = rand() - RAND_MAX / 2;
