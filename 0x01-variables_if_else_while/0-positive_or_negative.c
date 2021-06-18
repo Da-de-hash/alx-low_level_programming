@@ -3,10 +3,10 @@
 #include <time.h>
 
 /**
- *main - Positive or Ngative - print sign of random number
- *@viod: Empty parameter list for main.
+ * main - Positive or Ngative - print sign of random number
+ * @viod: Empty parameter list for main.
  *
- *Description: this if/else statement declares the sign (positive
+ * Description: this if/else statement declares the sign (positive
  * or negative) of a random number. It also states if the value
  * is zero.
  *
@@ -20,9 +20,8 @@ int main(void)
  */
 int n;
 srand(time(0));
-n = rand() - RAND_MAX/2;
-if (n>0)
-{
+n = rand() - RAND_MAX / 2;
+if (n > 0){
 printf("%d is positive\n", n);  
 }
 else if (n == 0)
